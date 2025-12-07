@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1,Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,ABC News (720p)
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,BBC News Asia Pacific (720p)
+#EXTINF:-1,BBC News Asia Pacific
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1,Fox News Channel (720p)
+#EXTINF:-1,Fox News Channel
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1,Fox (720p)
+#EXTINF:-1,Fox
 https://fl1.moveonjoy.com/FOX/index.m3u8
 #EXTINF:-1,NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1,Blast Sports (720p)
+#EXTINF:-1,Blast Sports
 https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
 #EXTINF:-1,Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1,Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#EXTINF:-1,Disney Channel HD (1080p)
+#EXTINF:-1,Disney Channel HD
 http://66.102.120.18:8000/play/a013/index.m3u8
-#EXTINF:-1,Disney Channel East (720p) [Not 24/7]
+#EXTINF:-1,Disney Channel East
 https://tvpass.org/live/DisneyChannelEast/hd
-#EXTINF:-1,Disney XD (720p)
+#EXTINF:-1,Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1,Disney Junior East
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -36,19 +36,19 @@ https://flexi-s1.purplecdn.xyz/NickToons/tracks-v1a1/mono.ts.m3u8
 https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1,National Geographic Wild
 https://tvpass.org/live/NationalGeographicWildEast/hd
-#EXTINF:-1,Bilyonaryo News Channel (720p) [Geo-blocked]
+#EXTINF:-1,Bilyonaryo News Channel [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF:-1,Mindanow Network TV (1080p)
+#EXTINF:-1,Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1,Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:-1,SBS (480p)
+#EXTINF:-1,SBS
 http://www.hwado.net/webtv/catv/502_76142D8F.php
-#EXTINF:-1,SBS JIBS (720p) [Not 24/7]
+#EXTINF:-1,SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1,SBS KBC (1080p) [Not 24/7]
+#EXTINF:-1,SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1,SBS KNN (1080p) [Not 24/7]
+#EXTINF:-1,SBS KNN
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1,tvN Asia (Indonesian Subtitle) (576p)
+#EXTINF:-1,tvN Asia (Indonesian Subtitle)
 http://210.210.155.37/dr9445/h/h20/index.m3u8
